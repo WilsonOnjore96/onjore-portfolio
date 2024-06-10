@@ -10,7 +10,7 @@
                        <a href="https://www.facebook.com/profile.php?id=100007569886040"><i class="fa-brands fa-facebook"></i></a> 
                        <a href="https://www.linkedin.com/in/wilson-o-98745b10b/"><i class="fa-brands fa-linkedin"></i></a> 
                     </div>
-                    <a href="../cv/cv.pdf" download class="btn btn2">Download CV</a>
+                    <!--<a href="../cv/cv.pdf" download class="btn btn2">Download CV</a>-->
                 </div>
                 <div class="contact-right">
                     <form @submit.prevent="sendEmail">
