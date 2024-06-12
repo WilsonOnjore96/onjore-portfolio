@@ -48,7 +48,7 @@ export default{
              }
              emailjs.send('service_k13ldnx','template_91zpfg9',custommail,'QvZw9HAQCUQgbMPot').then(
                 (response) =>{
-                    alert('Thank you for contacting me !',response.status,response.text)
+                    alert("Thank you for contacting me, I'll get back to you shortly 😁!",response.status,response.text)
                     //clear fields
                      this.clearFields()
                 },
