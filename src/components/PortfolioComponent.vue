@@ -4,26 +4,26 @@
             <h1 class="sub-title">My Portfolio</h1>
             <div class="work-list">
                 <div class="work">
-                    <img src="@/images/ecommerce1.jpg" alt="">
+                    <img src="@/images/licast-ecommerce.png" alt="">
                      <div class="layer">
-                        <h3>Online Store App</h3>
-                        <p>Your one-stop shop for curated finds and unbeatable deals online.</p>
+                        <h3>E-Commerce Apps</h3>
+                        <p>Let your customers acccess your products from your custom online commerce store</p>
                         <a :href ="portfolio"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                      </div>
                 </div>
                 <div class="work">
-                    <img src="@/images/android1.jpg" alt="">
+                    <img src="@/images/reviews-zetu.png" alt="">
                     <div class="layer">
-                        <h3>Restaurant App</h3>
-                        <p>Discover, order, and savor culinary delights with our intuitive app.</p>
+                        <h3>Blog Apps</h3>
+                        <p>Get yourself a world-class blog where you can freely express yourself to your target audience.</p>
                         <a :href ="portfolio"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                      </div>
                 </div>
                 <div class="work">
-                    <img src="@/images/port-1.jpg" alt="">
+                    <img src="@/images/debbs.png" alt="">
                     <div class="layer">
-                        <h3>Gym App</h3>
-                        <p>Power up your workouts with our streamlined gym management app.</p>
+                        <h3>Fitness Apps</h3>
+                        <p>Get your fitness center any of my worldclass fitness systems.</p>
                         <a :href ="portfolio"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                      </div>
                 </div>
