@@ -4,7 +4,7 @@
             <h1 class="sub-title">My Portfolio</h1>
             <div class="work-list">
                 <div class="work">
-                    <img src="@/images/licast-ecommerce.png" alt="">
+                    <img src="@/images/licast-ecomerce.png" alt="">
                      <div class="layer">
                         <h3>E-Commerce Apps</h3>
                         <p>Let your customers acccess your products from your custom online commerce store</p>
@@ -20,7 +20,7 @@
                      </div>
                 </div>
                 <div class="work">
-                    <img src="@/images/debbs.png" alt="">
+                    <img src="@/images/home_debbs.jpeg" alt="">
                     <div class="layer">
                         <h3>Fitness Apps</h3>
                         <p>Get your fitness center any of my worldclass fitness systems.</p>
